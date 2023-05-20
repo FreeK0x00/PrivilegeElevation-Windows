@@ -1,2 +1,1 @@
 # PrivilegeElevation-Windows
-这是作者的Windows权限提升系列专题自学教程
